@@ -6,6 +6,8 @@ def swap_text(s): #nombre de la función
           result += letter.lower() #las letras nayusculas a minusculas, las letras indicada
        else: #se da este caso sino funciona el anterior
           result += letter.upper()
-     print(result)     
+     print(result)      
     
 swap_text("hola TODOS") #llamamos a la función
+
+#Ten SIEMPRE PENDIENTE la indentación

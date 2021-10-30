@@ -9,3 +9,5 @@ function secondLargestNumber(numbers) {
 
 let nums = [8, 4, 6, 0, 12, 5]; //esta función se rompe si hay números repetidos
 console.log(secondLargestNumber(nums))
+
+//Este codigo tiene un problema, por la función sort, corrige el codigo
